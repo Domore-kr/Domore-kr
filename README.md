@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Kirill
+🇷🇺 I live in Moscow, Russia.
+🐍 I'm a Python developer with math and machine learning background.
+✉️ You can shoot me an email or social networks below.
 <!--
 **Domore-kr/Domore-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
