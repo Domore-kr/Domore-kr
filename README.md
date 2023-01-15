@@ -10,7 +10,3 @@
 ## 🤝 Connect with me
 
 [![placebo9132@gmail.com](https://img.shields.io/badge/email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:placebo9132@gmail.com) [![telegram](https://img.shields.io/badge/telegram%20-%2326A4E3.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Domorekr)
-
-## ![](https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png) LeetCode fun
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domore-kr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
