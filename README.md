@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kirill
 
-## I'm a front-end and back-end developer.
+## I'm a front-end developer.
 
 #### My CV: [watch](https://resume.io/r/tAs3Oig88)
 
